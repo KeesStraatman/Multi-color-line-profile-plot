@@ -2,7 +2,7 @@
 
 ImageJ macro to plot line profiles in up to 7 channels/colours. You can select the channels you want to use to create your plot graph. You can use the macro as an action tool (will create an icon in the toolbar when the macro is installed) or run it as a standard macro in ImageJ/Fiji. 
 
-![Line profile](Line profile.png)
+![Line profile](https://github.com/KeesStraatman/Multi-colour-line-profile-plot/blob/main/Line%20profile.png)
 
 
 
