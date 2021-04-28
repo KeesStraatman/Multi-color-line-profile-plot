@@ -8,7 +8,7 @@ ImageJ macro to plot line profiles in up to 7 channels/colours. You can select t
 
 ## Download code
 
-Select the file "Annotation_to_overlayV1.4.ijm" and select "Raw" from the right side menu. Select all the code and copy and paste this into the text editor from ImageJ/Fiji (File > New > Text Window). Alternatively, you can download all files via the green "Code" button as a ZIP file and extract the macro file. Save this file in your macros sub-folder within the ImageJ or Fiji folder with the name Annotation_to_overlayV1.4.ijm.
+Select the file "Plot_Multicolor4.3" and select "Raw" from the right side menu. Select all the code and copy and paste this into the text editor from ImageJ/Fiji (File > New > Text Window). Alternatively, you can download all files via the green "Code" button as a ZIP file and extract the macro file. Save this file in your macros sub-folder within the ImageJ or Fiji folder with the name Plot_Multicolor.txt.
 
 ## Run macro
 
