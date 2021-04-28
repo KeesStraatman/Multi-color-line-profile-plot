@@ -11,7 +11,7 @@
 
 // Kees Straatman, University of Leicester, 19 January 2014
 
-macro plot_multicolour{
+macro plot_multicolor{
 	setTool("line");
 	if (isOpen("ROI Manager")) {
      		selectWindow("ROI Manager");
