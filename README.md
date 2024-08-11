@@ -24,6 +24,11 @@ All the macros published on this repository can be used at your own risk. Althou
 
 ## Publications acknowledging this macro:
 
+Lützkendorf J, Matkovic-Rachid T, Götz T, Liu S, Ghelani T, Maglione M, Grieger M, Putignano S, Gao L, Gimber N, Schmoranzer J, Stawrakakis A, Walter AM, Heine M, Wahl MC, Mielke T, Liu F, Sigrist SJ (2024) Identification and characterization of a synaptic active zone assembly protein. 
+bioRxiv 2024.04.08.588536; doi: https://doi.org/10.1101/2024.04.08.588536
+
+Oevel K, Hohensee S, Kumar A, Rosas-Brugada I, Bartolini F, Soykan T, Haucke V (2024) Rho GTPase signaling and mDia facilitate endocytosis via presynaptic actin eLife 12:RP92755
+
 Pooryasin A, Maglione M, Schubert M, Matkovic-Rachid T, Hasheminasab SM, Pech U, Fiala A, Mielke T, Sigrist SJ (2021) Unc13A and Unc13B contribute to the decoding of distinct sensory information in *Drosophila*. Nat Commun. 12:1932. doi: 10.1038/s41467-021-22180-6.
 
 Jäpel M, Gerth F, Sakaba T, Bacetic J, Yao L, Koo SJ, Maritzen T, Freund C, Haucke V (2020) Intersectin-Mediated Clearance of SNARE Complexes Is Required for Fast Neurotransmission. Cell Rep. 30:409-420.
